@@ -1,0 +1,21 @@
+[
+{
+  "modid": "$modid",
+  "name": "$modname",
+  "description": "",
+  "version": "$version",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "$author"
+    
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
